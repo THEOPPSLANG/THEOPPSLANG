@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>School of Tomorrow - Group Summary with Roasts</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            margin-top: 30px;
+            background-color: #ffffff;
+            color: #333333;
+        }
+        h1 {
+            color: #007BFF;
+            font-size: 42px;
+            margin-bottom: 30px;
+        }
+        .profile {
+            margin: 30px 0;
+            font-size: 20px;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            background-color: #f9f9f9;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .roast {
+            color: #ff6347;
+            margin-top: 10px;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <h1>School of Tomorrow - Group Summary with Roasts</h1>
+
+    <div class="profile">
+        <h2>1. Alador</h2>
+        <p>The tallest member of our group, with a chiseled 6-pack and natural charm that makes him a magnet for the ladies.</p>
+        <p class="roast">Roast: Alador’s so tall, he can high-five the ceiling without even trying.</p>
+        <p class="roast">Roast: He might attract the girls, but let’s be honest—it’s only Maramawit and Sunper who keep showing up.</p>
+        <p class="roast">Roast: His abs are legendary, but the only thing they’ve won him are comments from Maramawit asking, “Can you reach that for me?”</p>
+        <p class="roast">Roast: Alador’s so confident about his looks, but even Sunper knows his best angle is when he's walking away.</p>
+        <p><img src="https://th.bing.com/th/id/OIP.NVI1gVVLQRBU7Gkt0mg0BgHaLH?w=115&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7" alt="Alador's Image" width="500"></p>
+    </div>
+
+    <div class="profile">
+        <h2>2. Matias</h2>
+        <p>Tall (though not as much as Alador), with a strong build and known for his fighting skills. He’s the guy you don’t want to mess with.</p>
+        <p class="roast">Roast: Matias fights so much, even his shadow stays away from him.</p>
+        <p class="roast">Roast: He’s strong enough to fight anyone, except his Wi-Fi when it decides to act up.</p>
+        <p class="roast">Roast: His fighting skills are top-notch, but he still fights his phone's autocorrect every day.</p>
+        <p><img src="https://vault.si.com/.image/ar_1:1,c_fill,cs_srgb,fl_progressive,q_auto:good,w_1200/MTY5MTQ4MTcwNjE5MDA0Mzc5/1965-0525-muhammad-ali-sonny-liston-ii-001292890jpg.jpg" alt="Matias's Image" width="500"></p>
+    </div>
+
+    <div class="profile">
+        <h2>3. Aleph</h2>
+        <p>As tall as Matias but with a less-than-perfect hairline. Not exactly winning beauty contests, but he brings a unique charm to the group.</p>
+        <p class="roast">Roast: Aleph’s hairline is so far back, it’s practically running from him.</p>
+        <p class="roast">Roast: He says looks don’t matter, and good thing they don’t because he’d be in trouble.</p>
+        <p class="roast">Roast: Aleph’s so committed to being ugly, even his reflection sighs before showing up.</p>
+        <p><img src="https://th.bing.com/th/id/OIP.I-JUEWNs2rNHg-keNyV3GwHaFp?rs=1&pid=ImgDetMain " width="500"></p>
+    </div>
+
+    <div class="profile">
+        <h2>4. Abenezer</h2>
+        <p>The runner of the group who never gets tired and is known for pulling serious pranks.</p>
+        <p class="roast">Roast: Abenezer runs so much, we’re convinced even his problems can’t catch up to him.</p>
+        <p class="roast">Roast: He’s so fast, but the only thing slower is his reply to messages.</p>
+        <p class="roast">Roast: His pranks are so serious, we’re still trying to figure out if his last joke was actually a compliment or an insult.</p>
+        <p><img src="https://th.bing.com/th/id/OIP.-hehtP5GmWbuHmDZ8vxt-AHaFB?rs=1&pid=ImgDetMain" alt="Abenezer's Image" width="500"></p>
+    </div>
+
+    <div class="profile">
+        <h2>5. Dagim</h2>
+        <p>Short but extremely fast and known for having a temper. You don’t want to be around when he’s angry.</p>
+        <p class="roast">Roast: Dagim is so fast, by the time you blink, he’s already mad at you for blinking.</p>
+        <p class="roast">Roast: His temper’s so quick, even a match takes longer to ignite.</p>
+        <p class="roast">Roast: He may be short, but his anger makes him look 10 feet tall.</p>
+        <p><img src="https://th.bing.com/th/id/R.4891cb368a06bc564aa50d73ba8bfb65?rik=l0jlARRZ8ZVKng&pid=ImgRaw&r=0" alt="Dagim's Image" width="500"></p>
+    </div>
+
+    <div class="profile">
+        <h2>6. Nathan</h2>
+        <p>The most average guy in the group. Not exactly setting any records, and he can't do a push-up but can manage a pull-up.</p>
+        <p class="roast">Roast: Nathan is so average, even the Wi-Fi ignores him.</p>
+        <p class="roast">Roast: He says he's got strength, but the only thing he’s lifting is the group's spirit... barely.</p>
+        <p class="roast">Roast: The only thing he's pulling up is our patience when he says, "I’ll do it next time."</p>
+        <p><img src="https://th.bing.com/th/id/OIP.KdBSw8TPL34eU6T7bjhpAAHaLH?rs=1&pid=ImgDetMain" alt="Nathan's Image" width="500"></p>
+    </div>
+
+    <div class="profile">
+        <h2>7. Nolawi</h2>
+        <p>Shorter than Dagim, but he's the chill guy of the group. An anime nerd and proud fanboy.</p>
+        <p class="roast">Roast: Nolawi’s so short, he looks up to even Dagim... and that’s saying something.</p>
+        <p class="roast">Roast: He’s the chill guy, probably because he’s saving all his energy for his next anime binge.</p>
+        <p class="roast">Roast: Nolawi’s anime obsession is so deep, we’re pretty sure he dreams in subtitles.</p>
+        <p class="roast">Roast: He’s convinced he’s living in an anime, but the only action scene he gets is when he has to reach for the top shelf.</p>
+        <p><img src="https://th.bing.com/th/id/OIP.usyvbkpyrgNCFh4FFNf2kwAAAA?rs=1&pid=ImgDetMain" alt="Nolawi's Image" width="500"></p>
+    </div>
+
+    <div class="profile">
+        <h2>8. Nahom</h2>
+        <p>The “betrayer” of the group. Known for his charm and for being loved by Wudasse, though the group has their doubts.</p>
+        <p class="roast">Roast: Nahom’s loyalty is as reliable as a Wi-Fi signal in a basement.</p>
+        <p class="roast">Roast: He’s so “loved” by Wudasse, but we’re pretty sure it’s just a plot twist waiting to happen.</p>
+        <p class="roast">Roast: Betrayal level: unlocked. Nahom's so smooth, even butter takes notes from him.</p>
+        <p><img src="https://th.bing.com/th/id/OIP.IVGSdr-ggZxG8fJfF9b7HAHaEh?rs=1&pid=ImgDetMain" alt="Nahom's Image" width="500"></p>
+    </div>
+
+    <p style="margin-top: 30px;">This is the crew at the School of Tomorrow—each with their unique quirks and epic roasts!</p>
+<!-- Code injected by live-server -->
+<script>
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+</body>
+</html>
